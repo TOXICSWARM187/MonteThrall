@@ -1,6 +1,0 @@
-5/3/2020-
-ADDED:
-about background
-
-REMOVED:
-about fading in and out, caused bugs
