@@ -1,4 +1,3 @@
 # MonteThrall
-!!!IMPORTANT!!!
-Game made for win64
-MonteThrall game developed by Austin Neese using pygame
+Made by Austin Neese using Python and the pygame engine. 
+Enjoy!
